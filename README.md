@@ -64,8 +64,7 @@ it runs without me.
 
 <br/>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=harinazrekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=6C3FF5&title_color=6C3FF5" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinazrekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=6C3FF5" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=harinazrekar&hide_border=true&background=000000&ring=6C3FF5&fire=6C3FF5&currStreakLabel=6C3FF5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
 
 <br/>
 <br/>
