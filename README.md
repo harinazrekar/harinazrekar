@@ -64,7 +64,7 @@ it runs without me.
 
 <br/>
 
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=harinazrekar&hide_border=true&background=000000&ring=6C3FF5&fire=6C3FF5&currStreakLabel=6C3FF5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
+<img height="137px" src="https://streak-stats.demolab.com?user=harinazrekar&hide_border=true&background=000000&ring=6C3FF5&fire=6C3FF5&currStreakLabel=6C3FF5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
 
 <br/>
 <br/>
