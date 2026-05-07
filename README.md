@@ -10,9 +10,13 @@
 
 <br/>
 
----
+</div>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=2&section=header)
 
 <br/>
+
+<div align="center">
 
 <table>
 <tr>
@@ -72,13 +76,33 @@ open_to:
 
 <br/>
 
----
+</div>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=2&section=header)
 
 <br/>
 
+<div align="center">
+
+![trophies-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:150a2e&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harinazrekar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
+
 <!-- LANGUAGES -->
 
-![languages](https://img.shields.io/badge/──────────────────────%20%20LANGUAGES%20%20──────────────────────-A78BFA?style=for-the-badge&labelColor=A78BFA&color=A78BFA)
+![languages-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a0a2e&height=40&text=languages&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -93,11 +117,19 @@ open_to:
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
 </p>
 
+</div>
+
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:FF006E,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- FRONTEND -->
 
-![frontend](https://img.shields.io/badge/──────────────────────%20%20FRONTEND%20%20──────────────────────-FF006E?style=for-the-badge&labelColor=FF006E&color=FF006E)
+![frontend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e0015&height=40&text=frontend&fontColor=FF006E&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -114,11 +146,19 @@ open_to:
   <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFC131"/>
 </p>
 
+</div>
+
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:06D6A0,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- BACKEND -->
 
-![backend](https://img.shields.io/badge/──────────────────────%20%20BACKEND%20%20──────────────────────-06D6A0?style=for-the-badge&labelColor=06D6A0&color=06D6A0)
+![backend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a2e20&height=40&text=backend&fontColor=06D6A0&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -133,11 +173,19 @@ open_to:
   <img src="https://img.shields.io/badge/Axum_(Rust)-000000?style=for-the-badge&logo=rust&logoColor=F74C00"/>
 </p>
 
+</div>
+
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,50:FFBE0B,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- AI & AUTOMATION -->
 
-![ai](https://img.shields.io/badge/───────────────────%20%20AI%20%26%20AUTOMATION%20%20───────────────────-FFBE0B?style=for-the-badge&labelColor=FFBE0B&color=FFBE0B)
+![ai-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e2000&height=40&text=ai%20%26%20automation&fontColor=FFBE0B&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -148,11 +196,19 @@ open_to:
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=45BA4B"/>
 </p>
 
+</div>
+
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FFBE0B,50:3A86FF,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- INFRA & DATA -->
 
-![infra](https://img.shields.io/badge/───────────────────%20%20INFRA%20%26%20DATA%20%20───────────────────-3A86FF?style=for-the-badge&labelColor=3A86FF&color=3A86FF)
+![infra-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a142e&height=40&text=infra%20%26%20data&fontColor=3A86FF&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -170,18 +226,21 @@ open_to:
   <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=ffffff"/>
 </p>
 
-<br/>
-
----
+</div>
 
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:3A86FF,50:FB5607,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- STATS -->
 
-![stats](https://img.shields.io/badge/──────────────────────────%20%20STATS%20%20──────────────────────────-FB5607?style=for-the-badge&labelColor=FB5607&color=FB5607)
+![stats-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e1000&height=40&text=stats&fontColor=FB5607&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
-
 
 <img src="https://streak-stats.demolab.com?user=harinazrekar&hide_border=true&background=0d0d0d&ring=FF006E&fire=FFBE0B&currStreakLabel=06D6A0&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=0d0d0d" />
 
@@ -194,15 +253,19 @@ open_to:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinazrekar&bg_color=0d0d0d&color=00F5D4&line=FF006E&point=FFBE0B&area_color=A78BFA&area=true&hide_border=true" />
 
-<br/>
-
----
+</div>
 
 <br/>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FB5607,50:00F5D4,100:0d0d0d&height=2&section=header)
+
+<br/>
+
+<div align="center">
 
 <!-- CONNECT -->
 
-![connect](https://img.shields.io/badge/──────────────────────────%20%20CONNECT%20%20──────────────────────────-00F5D4?style=for-the-badge&labelColor=00F5D4&color=00F5D4)
+![connect-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:002e2a&height=40&text=connect&fontColor=00F5D4&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -210,7 +273,6 @@ open_to:
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/harinazrekar)
 
 <br/>
-
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -224,6 +286,6 @@ open_to:
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,20:0d1b0d,40:0a192f,60:1a0533,80:0f0c29,100:0d0d0d&height=120&section=footer&animation=fadeIn)
-
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,20:0d1b0d,40:0a192f,60:1a0533,80:0f0c29,100:0d0d0d&height=120&section=footer&animation=fadeIn)
