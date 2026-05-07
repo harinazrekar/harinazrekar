@@ -17,8 +17,9 @@ jobs:
 
       - name: Deploy to output branch
         run: |
-          git init dist
+          sudo chown -R runner:runner dist
           cd dist
+          git init
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git checkout -b output
