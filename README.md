@@ -188,6 +188,10 @@ open_to:
 <br/>
 <br/>
 
+![snake](https://raw.githubusercontent.com/harinazrekar/harinazrekar/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinazrekar&bg_color=0d0d0d&color=00F5D4&line=FF006E&point=FFBE0B&area_color=A78BFA&area=true&hide_border=true" />
 
 <br/>
