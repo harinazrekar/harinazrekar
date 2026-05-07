@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,20:0f0c29,40:1a0533,60:0a192f,80:0d1b0d,100:1a0000&height=220&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=70&descSize=13&descColor=999999)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&size=24&pause=999999&color=FFBE0B&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D8%AD%D9%82+%E2%80%94+Mansur+Al-Hallaj%2C+858+AD)](https://git.io/typing-svg)
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=making+software+do+things+it+wasn't+supposed+to+do.;built+an+autonomous+algo+that+reads+markets+%26+generates+alpha.;appointed+youth+member+%E2%80%94+future+leaders%2C+hong+kong+sar.;currently%3A+somewhere+between+an+idea+and+shipping.;AI+%2F+systems+%2F+whatever+the+problem+demands.)](https://git.io/typing-svg)
