@@ -205,9 +205,6 @@ open_to:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harinazrekar&color=FF006E&style=for-the-badge&label=profile+views)
-
-<br/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
