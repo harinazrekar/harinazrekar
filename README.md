@@ -180,12 +180,6 @@ open_to:
 
 <br/>
 
-<p>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=harinazrekar&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=FFBE0B&text_color=ffffff&count_private=true" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinazrekar&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=06D6A0&text_color=ffffff&langs_count=8" />
-</p>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=harinazrekar&hide_border=true&background=0d0d0d&ring=FF006E&fire=FFBE0B&currStreakLabel=06D6A0&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=0d0d0d" />
 
