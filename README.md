@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,20:0f0c29,40:1a0533,60:0a192f,80:0d1b0d,100:1a0000&height=220&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=70&descSize=13&descColor=999999)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&size=24&pause=999999&color=FFBE0B&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D8%AD%D9%82+%E2%80%94+Mansur+Al-Hallaj%2C+858+AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&size=24&pause=999999&color=C41E3A&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D8%AD%D9%82+%E2%80%94+Mansur+Al-Hallaj%2C+858+AD)](https://git.io/typing-svg)
 
 <br/>
 
