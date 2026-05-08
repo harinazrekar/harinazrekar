@@ -84,9 +84,6 @@ open_to:
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harinazrekar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br/>
 
