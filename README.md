@@ -10,8 +10,6 @@
 
 <br/>
 
-![cosmic](https://raw.githubusercontent.com/harinazrekar/harinazrekar/main/cosmic-banner.svg)
-
 </div>
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=8&section=header)
