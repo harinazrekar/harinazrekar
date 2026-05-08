@@ -80,7 +80,6 @@ open_to:
 
 <div align="center">
 
-![trophies-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2d1557&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
