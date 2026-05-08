@@ -13,16 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create settings file
+        run: |
+          cat > settings.json << 'EOF'
+          {
+            "backgroundColor": "#0d0d0d",
+            "foregroundColor": "#ffffff",
+            "theme": "night-rainbow"
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: harinazrekar
-          SETTING_JSON: |
-            {
-              "backgroundColor": "#0d0d0d",
-              "foregroundColor": "#ffffff",
-              "theme": "night-rainbow"
-            }
+          SETTING_JSON: settings.json
 
       - name: Commit and push
         run: |
