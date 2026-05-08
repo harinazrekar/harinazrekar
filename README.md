@@ -84,7 +84,7 @@ open_to:
 
 <div align="center">
 
-![trophies-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:150a2e&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
+![trophies-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2d1557&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -102,7 +102,7 @@ open_to:
 
 <!-- LANGUAGES -->
 
-![languages-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a0a2e&height=40&text=languages&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
+![languages-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2d0a52&height=40&text=languages&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -129,7 +129,7 @@ open_to:
 
 <!-- FRONTEND -->
 
-![frontend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e0015&height=40&text=frontend&fontColor=FF006E&fontSize=16&fontAlignY=65&animation=fadeIn)
+![frontend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:520025&height=40&text=frontend&fontColor=FF006E&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -158,7 +158,7 @@ open_to:
 
 <!-- BACKEND -->
 
-![backend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a2e20&height=40&text=backend&fontColor=06D6A0&fontSize=16&fontAlignY=65&animation=fadeIn)
+![backend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a5238&height=40&text=backend&fontColor=06D6A0&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -183,9 +183,9 @@ open_to:
 
 <div align="center">
 
-<!-- AI & AUTOMATION -->
+<!-- AI AND AUTOMATION -->
 
-![ai-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e2000&height=40&text=ai%20%26%20automation&fontColor=FFBE0B&fontSize=16&fontAlignY=65&animation=fadeIn)
+![ai-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:523800&height=40&text=ai+and+automation&fontColor=FFBE0B&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -206,9 +206,9 @@ open_to:
 
 <div align="center">
 
-<!-- INFRA & DATA -->
+<!-- INFRA AND DATA -->
 
-![infra-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a142e&height=40&text=infra%20%26%20data&fontColor=3A86FF&fontSize=16&fontAlignY=65&animation=fadeIn)
+![infra-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a1e52&height=40&text=infra+and+data&fontColor=3A86FF&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -238,7 +238,7 @@ open_to:
 
 <!-- STATS -->
 
-![stats-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2e1000&height=40&text=stats&fontColor=FB5607&fontSize=16&fontAlignY=65&animation=fadeIn)
+![stats-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:521c00&height=40&text=stats&fontColor=FB5607&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -265,7 +265,7 @@ open_to:
 
 <!-- CONNECT -->
 
-![connect-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:002e2a&height=40&text=connect&fontColor=00F5D4&fontSize=16&fontAlignY=65&animation=fadeIn)
+![connect-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00524a&height=40&text=connect&fontColor=00F5D4&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
