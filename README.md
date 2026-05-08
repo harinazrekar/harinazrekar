@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,20:0f0c29,40:1a0533,60:0a192f,80:0d1b0d,100:1a0000&height=220&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=70&descSize=13&descColor=999999)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,15:0d0818,35:1a0533,55:0a192f,75:0d1b0d,100:1a0000&height=260&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=66&descSize=13&descColor=777777)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&size=24&pause=999999&color=C41E3A&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D8%AD%D9%82+%E2%80%94+Mansur+Al-Hallaj%2C+858+AD)](https://git.io/typing-svg)
 
@@ -10,9 +10,11 @@
 
 <br/>
 
+![cosmic](https://raw.githubusercontent.com/harinazrekar/harinazrekar/main/cosmic-banner.svg)
+
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -78,7 +80,7 @@ open_to:
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -94,7 +96,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:A78BFA,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -121,7 +123,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:FF006E,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:FF006E,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -150,7 +152,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:06D6A0,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:06D6A0,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -177,7 +179,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,50:FFBE0B,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,50:FFBE0B,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -200,7 +202,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:FFBE0B,50:3A86FF,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FFBE0B,50:3A86FF,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -230,7 +232,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:3A86FF,50:FB5607,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:3A86FF,50:FB5607,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -247,6 +249,10 @@ open_to:
 <br/>
 <br/>
 
+[![isometric](https://githubtrends.io/readme/harinazrekar/langs?time_range=one_year&theme=dark&loc_metric=changed)](https://githubtrends.io/user/harinazrekar)
+
+<br/>
+
 ![snake](https://raw.githubusercontent.com/harinazrekar/harinazrekar/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
@@ -257,7 +263,7 @@ open_to:
 
 <br/>
 
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:FB5607,50:00F5D4,100:0d0d0d&height=2&section=header)
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:FB5607,50:00F5D4,100:0d0d0d&height=8&section=header)
 
 <br/>
 
@@ -288,4 +294,4 @@ open_to:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,20:0d1b0d,40:0a192f,60:1a0533,80:0f0c29,100:0d0d0d&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,20:0d1b0d,40:0a192f,60:1a0533,80:0f0c29,100:020208&height=120&section=footer&animation=fadeIn)
