@@ -247,7 +247,7 @@ open_to:
 <br/>
 <br/>
 
-![3d-contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+![3d-contrib](https://raw.githubusercontent.com/harinazrekar/harinazrekar/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 
