@@ -84,7 +84,7 @@ open_to:
 
 <div align="center">
 
-![trophies-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:2d1557&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
+![trophies-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2d1557&height=40&text=trophies&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -102,7 +102,7 @@ open_to:
 
 <!-- LANGUAGES -->
 
-![languages-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:2d0a52&height=40&text=languages&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
+![languages-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:2d0a52&height=40&text=languages&fontColor=A78BFA&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -129,7 +129,7 @@ open_to:
 
 <!-- FRONTEND -->
 
-![frontend-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:520025&height=40&text=frontend&fontColor=FF006E&fontSize=16&fontAlignY=65&animation=fadeIn)
+![frontend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:520025&height=40&text=frontend&fontColor=FF006E&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -158,7 +158,7 @@ open_to:
 
 <!-- BACKEND -->
 
-![backend-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:0a5238&height=40&text=backend&fontColor=06D6A0&fontSize=16&fontAlignY=65&animation=fadeIn)
+![backend-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a5238&height=40&text=backend&fontColor=06D6A0&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -185,7 +185,7 @@ open_to:
 
 <!-- AI AND AUTOMATION -->
 
-![ai-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:523800&height=40&text=ai+and+automation&fontColor=FFBE0B&fontSize=16&fontAlignY=65&animation=fadeIn)
+![ai-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:523800&height=40&text=ai+and+automation&fontColor=FFBE0B&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -208,7 +208,7 @@ open_to:
 
 <!-- INFRA AND DATA -->
 
-![infra-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:0a1e52&height=40&text=infra+and+data&fontColor=3A86FF&fontSize=16&fontAlignY=65&animation=fadeIn)
+![infra-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0a1e52&height=40&text=infra+and+data&fontColor=3A86FF&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
@@ -238,17 +238,13 @@ open_to:
 
 <!-- STATS -->
 
-![stats-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:521c00&height=40&text=stats&fontColor=FB5607&fontSize=16&fontAlignY=65&animation=fadeIn)
+![stats-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:521c00&height=40&text=stats&fontColor=FB5607&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=harinazrekar&hide_border=true&background=0d0d0d&ring=FF006E&fire=FFBE0B&currStreakLabel=06D6A0&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=0d0d0d" />
 
 <br/>
-<br/>
-
-[![isometric](https://githubtrends.io/readme/harinazrekar/langs?time_range=one_year&theme=dark&loc_metric=changed)](https://githubtrends.io/user/harinazrekar)
-
 <br/>
 
 ![snake](https://raw.githubusercontent.com/harinazrekar/harinazrekar/output/github-contribution-grid-snake-dark.svg)
@@ -269,7 +265,7 @@ open_to:
 
 <!-- CONNECT -->
 
-![connect-header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:00524a&height=40&text=connect&fontColor=00F5D4&fontSize=16&fontAlignY=65&animation=fadeIn)
+![connect-header](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:00524a&height=40&text=connect&fontColor=00F5D4&fontSize=16&fontAlignY=65&animation=fadeIn)
 
 <br/>
 
