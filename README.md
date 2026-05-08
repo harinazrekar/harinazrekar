@@ -247,10 +247,6 @@ open_to:
 <br/>
 <br/>
 
-![3d-contrib](https://raw.githubusercontent.com/harinazrekar/harinazrekar/main/profile-3d-contrib/profile-customize.svg)
-
-<br/>
-
 ![snake](https://raw.githubusercontent.com/harinazrekar/harinazrekar/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
