@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,15:0d0818,35:1a0533,55:0a192f,75:0d1b0d,100:1a0000&height=260&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=66&descSize=13&descColor=777777)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&size=24&pause=999999&color=C41E3A&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D8%AD%D9%82+%E2%80%94+Mansur+Al-Hallaj%2C+858+AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=15&pause=999999&color=9999BB&center=true&vCenter=true&multiline=true&width=780&height=55&lines=The+truth+is+one%2C+but+there+are+a+million+ways+to+get+to+it.;Truth+is+a+pathless+land+%E2%80%94+no+system%2C+no+guru%2C+no+authority+can+lead+you+to+the+truth.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<br/>
+</div>
 
 <div align="center">
 
@@ -73,9 +73,6 @@ open_to:
 <br/>
 
 </div>
-
-<br/>
-
 
 <br/>
 
