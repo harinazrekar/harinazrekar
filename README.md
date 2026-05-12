@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2200&color=C8C0FF&center=true&vCenter=true&width=750&lines=The+truth+is+one.;There+are+a+million+ways+to+get+to+it.;Truth+is+a+pathless+land.;No+system%2C+no+guru%2C+no+authority;can+lead+you+to+the+truth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=999999&color=C8C0FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=120&lines=The+truth+is+one%2C+but+there+are+a+million+ways+to+get+to+it.;Truth+is+a+pathless+land+%E2%80%94+no+system%2C+no+guru%2C;no+authority+can+lead+you+to+the+truth.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=14&pause=999999&color=444460&center=true&vCenter=true&width=750&lines=%E2%80%94+J.+Krishnamurti)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=14&pause=999999&color=444460&center=true&vCenter=true&width=760&lines=%E2%80%94+J.+Krishnamurti)](https://git.io/typing-svg)
 
 <br/>
 
