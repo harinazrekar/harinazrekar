@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=14&pause=999999&color=444460&center=true&vCenter=true&width=760&lines=%E2%80%94+J.+Krishnamurti)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=14&pause=999999&color=444460&center=true&vCenter=true&width=760&lines=%E2%80%94+J.+Krishnamurti)](https://git.io/typing-svg)
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=making+software+do+things+it+wasn't+supposed+to+do.;built+an+autonomous+algo+that+reads+markets+%26+generates+alpha.;appointed+youth+member+%E2%80%94+future+leaders%2C+hong+kong+sar.;currently%3A+somewhere+between+an+idea+and+shipping.;AI+%2F+systems+%2F+whatever+the+problem+demands.)](https://git.io/typing-svg)
