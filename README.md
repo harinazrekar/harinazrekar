@@ -2,9 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,15:0d0818,35:1a0533,55:0a192f,75:0d1b0d,100:1a0000&height=260&section=header&text=hari%20nazrekar&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn&desc=founder%20%E2%80%A2%20builder%20%E2%80%A2%20system%20architect%20%E2%80%A2%20alpha%20generator&descAlignY=66&descSize=13&descColor=777777)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=20&pause=999999&color=9999BB&center=true&vCenter=true&width=780&lines=The+truth+is+one%2C+but+there+are+a+million+ways+to+get+to+it.)](https://git.io/typing-svg)
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=20&pause=999999&color=9999BB&center=true&vCenter=true&width=780&lines=Truth+is+a+pathless+land+-+no+system%2C+no+guru%2C+no+authority+can+lead+you+to+the+truth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2200&color=C8C0FF&center=true&vCenter=true&width=750&lines=The+truth+is+one.;There+are+a+million+ways+to+get+to+it.;Truth+is+a+pathless+land.;No+system%2C+no+guru%2C+no+authority;can+lead+you+to+the+truth.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=14&pause=999999&color=444460&center=true&vCenter=true&width=750&lines=%E2%80%94+J.+Krishnamurti)](https://git.io/typing-svg)
 
 <br/>
 
@@ -227,13 +229,6 @@ open_to:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=harinazrekar&hide_border=true&background=0d0d0d&ring=FF006E&fire=FFBE0B&currStreakLabel=06D6A0&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=0d0d0d" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinazrekar&theme=github_dark" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinazrekar&theme=github_dark" />
 
 <br/>
 <br/>
